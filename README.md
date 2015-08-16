@@ -2,7 +2,7 @@
 
 Completed 08/16/2015
 
-Packages to install: `apache2Http`, `wsgi` and `PostgreSQL 
+Packages to install: `apache2Http`, `wsgi` and `PostgreSQL`
 
 ```
 sudo addUser student
