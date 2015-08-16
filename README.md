@@ -1,6 +1,8 @@
 # Udacity: Configuring Linux Web Servers
 
-apache2Http, wsgi, PostgreSQL, 
+Completed 08/16/2015
+
+Packages to install: `apache2Http`, `wsgi` and `PostgreSQL 
 
 ```
 sudo addUser student
